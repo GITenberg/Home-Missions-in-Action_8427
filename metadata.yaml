@@ -1,0 +1,30 @@
+_repo: Home-Missions-in-Action_8427
+creator:
+  author:
+    agent_name: Allen, Edith H. (Edith Hedden)
+    birthdate: 1869
+    gutenberg_agent_id: '2738'
+    url: http://www.gutenberg.org/2009/agents/2738
+description: This book is written from the standpoint of the words chosen as the key
+  note for the year, "Thy kingdom come; Thy will be done on earth." It recognizes
+  the fact that the Kingdom cannot come to our land, or to the world unless all social
+  conditions are drawn within its scope; it emphasizes the desire of Home Missions
+  and the church to work toward this great end, and the recognition of their responsibility
+  for its accomplishment. That this book may reveal the far-reaching potentialities
+  of Home Missions as a dynamic force for reclaiming, educating, healing, and integrating
+  our nation into a land over which the Christ shall reign and that from Him it shall
+  also draw its ideals and its power, is the hope and the prayer of the author and
+  the Council of Women for Home Missions.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8427'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Home missions'
+- !lcc 'BV'
+title: Home Missions in Action
+url: http://www.gutenberg.org/ebooks/8427
