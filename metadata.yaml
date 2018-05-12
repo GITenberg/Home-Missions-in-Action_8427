@@ -1,4 +1,8 @@
 _repo: Home-Missions-in-Action_8427
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Allen, Edith H. (Edith Hedden)
@@ -15,6 +19,8 @@ description: This book is written from the standpoint of the words chosen as the
   our nation into a land over which the Christ shall reign and that from Him it shall
   also draw its ideals and its power, is the hope and the prayer of the author and
   the Council of Women for Home Missions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8427#Home-Missions-in-Action
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
